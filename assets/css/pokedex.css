@@ -1,3 +1,13 @@
+body{
+    background-color: #2C69C6;
+}
+.logo{
+    display: flex;
+    img{
+        height: 6.5rem;
+        margin-left: 1rem;
+    }   
+}
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
